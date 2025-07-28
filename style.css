@@ -77,3 +77,49 @@ th,td{
     width: 100%;
     background-color: darkblue;
 }
+.Header2{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(20, 25, 25);
+}
+.header{
+    text-align: center;
+}
+.main4{
+    display: flex;
+}
+.a3{
+    height: 600px;
+    width: 30%;
+    background-color:rgb(98, 12, 173);
+}
+.b3{
+    height: 300px;
+    width: 70%;
+    background-color: rgb(237, 204, 15);
+}
+.main5{
+    display: flex;
+}
+.i1{
+     height: 300px;
+    width: 50%;
+    background-color: rgb(241, 9, 9);
+
+}
+.i2{
+ height: 300px;
+    width: 50%;
+    background-color: rgb(74, 7, 119);
+}
+.d{
+     height: 300px;
+    width: 100%;
+    background-color: rgb(179, 0, 255);
+
+}
+.last{
+    height: 300px;
+    width: 100%;
+    background-color: darkblue;
+} 
